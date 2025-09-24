@@ -14,3 +14,8 @@ class blogSchema(BaseModel):
     title:str
     content:str
     headerImage:str
+
+class studentSchema(BaseModel):
+    title:str
+    content:str
+    headerImage:str
